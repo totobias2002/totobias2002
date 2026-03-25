@@ -12,28 +12,30 @@ Actualmente estoy desarrollando proyectos académicos y personales enfocados en 
 
 - Enfocado en desarrollo Backend
 - Experiencia con APIs REST (.NET + MongoDB)
+- Arquitectura en capas (Controller - Service - Repository)
 - Formación en estructuras de datos y programación orientada a objetos
 - Interés en mejorar performance, arquitectura y buenas prácticas
+- Actualmente desarrollando una API REST en Java (Spring Boot) como parte de mi formación académica
 
 ---
 
 ## 🛠 Tech Stack
 
-**Lenguajes:**
+### Lenguajes:
 - Java
 - Python
 - C#
 - SQL
 
-**Backend:**
+### Backend:
 - .NET Core
 - APIs REST
 
-**Bases de datos:**
+### Bases de datos:
 - MongoDB
 - SQL Server
 
-**Herramientas:**
+### Herramientas:
 - Git & GitHub
 - SAP
 - Excel
@@ -44,7 +46,7 @@ Actualmente estoy desarrollando proyectos académicos y personales enfocados en 
 
 ### Backend Developer – Proyecto Freelance
 - Desarrollo de API REST con .NET Core + MongoDB
-- Implementación de operaciones CRUD y lógica de negocio
+- Implementación de endpoints REST (CRUD) con lógica de negocio y validaciones
 - Manejo de datos para sistema de gestión aduanera
 
 ### Analista de Gestión de Stock – Cencosud (Voolkia S.A.)
@@ -56,7 +58,7 @@ Actualmente estoy desarrollando proyectos académicos y personales enfocados en 
 
 ## 📌 Objetivo
 
-Busco mi primera experiencia profesional como desarrollador Backend, donde pueda seguir creciendo y aplicando mis conocimientos en proyectos reales.
+Busco mi primera experiencia profesional como desarrollador Backend, donde pueda aplicar mis conocimientos en APIs, manejo de datos y lógica de negocio, y seguir creciendo en entornos reales de desarrollo.
 
 ---
 
